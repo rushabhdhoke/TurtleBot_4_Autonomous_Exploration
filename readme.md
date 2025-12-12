@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen) ![ROS2](https://img.shields.io/badge/ROS2-Jazzy-blue) ![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey)
 
 
-Inspired by the paper "Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale" ![Link](https://arxiv.org/html/2504.10416v1)
+Inspired by the paper "Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale" [Link](https://arxiv.org/html/2504.10416v1)
 
 
 ## 📖 Overview
