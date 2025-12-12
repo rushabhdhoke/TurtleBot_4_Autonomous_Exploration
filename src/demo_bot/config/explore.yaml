@@ -1,0 +1,14 @@
+explore:
+  ros__parameters:
+    robot_base_frame: base_link
+    costmap_topic: /global_costmap/costmap
+    costmap_updates_topic: /global_costmap/costmap_updates
+    action_name: navigate_to_pose
+    visualize: true
+    planner_frequency: 0.2  # Reduced from 0.33 - replan less often = less thrashing
+    progress_timeout: 60.0  # Increased from 30 - give more time before giving up
+    potential_scale: 3.0
+    orientation_scale: 0.0
+    gain_scale: 1.0
+    transform_tolerance: 0.3
+    min_frontier_size: 0.3  # Reduced from 0.5 - detect smaller frontiers in narrow corridors
