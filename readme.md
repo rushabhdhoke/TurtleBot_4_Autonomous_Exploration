@@ -102,6 +102,9 @@ src/demo_bot/
 
 ## 📊 Performance Comparison
 
+![Image](image.png)
+
+
 | Metric | Standard Frontier | Region-Aware (Ours) | improvement |
 |:--- |:--- |:--- |:--- |
 | **Exploration Time** | 12:45 min | **04:15 min** | **3x Faster** |
